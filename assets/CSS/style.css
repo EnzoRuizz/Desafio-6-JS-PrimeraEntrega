@@ -1,0 +1,12 @@
+.body-index{
+    background-color: #bdc3c7;
+}
+.carousel-item img{
+    object-fit: cover;
+    object-position: center;
+    height: 300px !important;
+}
+
+.card, .card-body{
+    text-align: center !important;
+}
